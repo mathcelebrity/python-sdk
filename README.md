@@ -1,2 +1,5 @@
-# python-sdk
-Python SDK for MathCelebrity API
+# MathCelebrity Python SDK
+
+## Install
+```bash
+pip install mathcelebrity
